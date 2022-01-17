@@ -5,7 +5,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="logo.png" alt="Logo" width="80" height="80">
+    <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Seismic Bumps Dataset</h3>
@@ -13,7 +13,7 @@
   <p align="center">
     End of Course Project A.Y. 2021/22
     <br />
-    <a href=""><strong>Explore the report »</strong></a>
+    <a href="https://github.com/Grade0/DM-I/blob/main/%5BDM1%202021-2022%5D%20Project-seismic%20bumps.pdf"><strong>Explore the report »</strong></a>
     <br />
   </p>
 </p>
