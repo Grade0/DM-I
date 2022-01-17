@@ -13,8 +13,12 @@
   <p align="center">
     End of Course Project A.Y. 2021/22
     <br />
-    <a href="https://github.com/Grade0/DM-I/blob/main/%5BDM1%202021-2022%5D%20Project-seismic%20bumps.pdf"><strong>Explore the report »</strong></a>
+    <a href="https://github.com/Grade0/DM-I/blob/main/%5BDM1%202021-2022%5D%20Project-seismic%20bumps.pdf"><strong>Read the report »</strong></a>
     <br />
+    <br />
+    <a href="https://github.com/Grade0/DM-I/blob/main/seismic-bumps.csv">Explore the Dataset</a>
+    ·
+    <a href="https://github.com/Grade0/DM-I/tree/main/python%20analysis">View the Code</a>
   </p>
 </p>
 
