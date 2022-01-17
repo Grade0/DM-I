@@ -16,7 +16,9 @@
     <a href="https://github.com/Grade0/DM-I/blob/main/%5BDM1%202021-2022%5D%20Project-seismic%20bumps.pdf"><strong>Read the report »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Grade0/DM-I/blob/main/seismic-bumps.csv">Explore the Dataset</a>
+    <a href="https://archive-beta.ics.uci.edu/ml/datasets/seismic+bumps">Dataset source</a>
+    ·
+    <a href="https://github.com/Grade0/DM-I/blob/main/seismic-bumps.csv">Explore the file csv</a>
     ·
     <a href="https://github.com/Grade0/DM-I/tree/main/python%20analysis">View the Code</a>
   </p>
@@ -30,7 +32,7 @@
 
 ## About the Dataset
 
-[[Seismic Bumps Dataset](https://archive.ics.uci.edu/ml/datasets/seismic-bumps)]
+#### Seismic Bumps
 
 The data was taken by the polish "Institute of Computer Science, Silesian University of Technology" and the " Institute of Innovative Technologies", from a Polish coal mine.     
 "Mining activity was and is always connected with the occurrence of dangers which are commonly called
@@ -39,6 +41,7 @@ underground mines. Seismic hazard is the hardest detectable and predictable of n
 this respect it is comparable to an earthquake. More and more advanced seismic and seismoacoustic
 monitoring systems allow a better understanding rock mass processes and definition of seismic hazard
 prediction methods." 
+
 ## About the project
 
 In this project consists in analyzing with data mining tools the problem of forecasting high seismic bumps in a coal mine. The project is divided in four parts as follow: 
