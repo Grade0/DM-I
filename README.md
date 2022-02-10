@@ -13,7 +13,7 @@
   <p align="center">
     End of Course Project A.Y. 2021/22
     <br />
-    <a href="https://github.com/Grade0/DM-I/blob/main/%5BDM1%202021-2022%5D%20Project-seismic%20bumps.pdf"><strong>Read the report »</strong></a>
+    <a href="https://github.com/Grade0/DM-I/blob/main/Project%20Report.pdf"><strong>Read the report »</strong></a>
     <br />
     <br />
     <a href="https://archive-beta.ics.uci.edu/ml/datasets/seismic+bumps">Data source</a>
