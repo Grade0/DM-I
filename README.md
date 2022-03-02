@@ -44,7 +44,7 @@ prediction methods."
 
 ## About the project
 
-In this project consists in analyzing with data mining tools the problem of forecasting high seismic bumps in a coal mine. The project is divided in four parts as follow: 
+This project consists in analyzing with data mining tools the problem of forecasting high seismic bumps in a coal mine. The project is divided in four parts as follow: 
 
 - Data Understanding & Preparation 
 - Clustering
